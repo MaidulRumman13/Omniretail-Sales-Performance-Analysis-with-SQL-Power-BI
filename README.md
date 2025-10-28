@@ -82,7 +82,7 @@ ALTER TABLE Sales RENAME COLUMN Sale_Date_New TO Sale_Date;
 | **Store Efficiency** | `S008` → **$1,148/sale** |
 | **Top 5 by AOV** | `C0191` → `$1,805.31` |
 
-[View Ad-hoc SQL](SQL_Queries/Adhoc_Analysis.sql)
+[View Ad-hoc SQL](Ad-hoc_Query.sql)
 
 ---
 
