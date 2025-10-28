@@ -68,7 +68,7 @@ ALTER TABLE Sales RENAME COLUMN Sale_Date_New TO Sale_Date;
 | 9 | Avg unit price per category? | **Electronics** → `$200.59` |
 | 10| Highest return % category? | **Electronics** → `15.63%` |
 
-[View SQL File](SQL_Queries/Business_Questions.sql)
+[View SQL File](Assignment_Ques_Query.sql)
 
 ---
 
