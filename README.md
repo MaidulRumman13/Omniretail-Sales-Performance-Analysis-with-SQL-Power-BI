@@ -121,7 +121,7 @@ ALTER TABLE Sales RENAME COLUMN Sale_Date_New TO Sale_Date;
 ---
 
 ## Project Structure  
-
+```
 Omniretail-Sales-Analysis/
 │
 ├── SQL_Queries/
@@ -144,7 +144,7 @@ Omniretail-Sales-Analysis/
 │   └── slides.pptx
 │
 └── README.md
-
+```
 
 
 ## Tech Stack  
